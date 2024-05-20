@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>other</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-18 19:55:41</sys_created_on>
+        <sys_id>6899563c93da42106f3830dcebba1090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="ADF - Loaner Office App" source="x_1152827_adf_loan">f1b1f03893d242106f3830dcebba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ADF - Loaner Office App">f1b1f03893d242106f3830dcebba1094</sys_scope>
+        <sys_update_name>sys_ui_policy_action_6899563c93da42106f3830dcebba1090</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-18 19:55:41</sys_updated_on>
+        <table>x_1152827_adf_loan_loaner_request</table>
+        <ui_policy display_value="Make other fields visible and mandatory">a9c816f893da42106f3830dcebba10a6</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ADF - Loaner Office App">f1b1f03893d242106f3830dcebba1094</application>
+        <file_path/>
+        <instance_id>b72f9d6bdbd2799002d9172913961975</instance_id>
+        <instance_name>dev210685</instance_name>
+        <name>sys_ui_policy_action_6899563c93da42106f3830dcebba1090</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>other</field><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-18 19:55:41</sys_created_on><sys_id>6899563c93da42106f3830dcebba1090</sys_id><sys_mod_count>0</sys_mod_count><sys_name>other</sys_name><sys_package display_value="ADF - Loaner Office App" source="x_1152827_adf_loan">f1b1f03893d242106f3830dcebba1094</sys_package><sys_policy/><sys_scope display_value="ADF - Loaner Office App">f1b1f03893d242106f3830dcebba1094</sys_scope><sys_update_name>sys_ui_policy_action_6899563c93da42106f3830dcebba1090</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-18 19:55:41</sys_updated_on><table>x_1152827_adf_loan_loaner_request</table><ui_policy display_value="Make other fields visible and mandatory">a9c816f893da42106f3830dcebba10a6</ui_policy><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>719749182</payload_hash>
+        <record_name>other</record_name>
+        <reverted_from/>
+        <source>91c5fc7c93d242106f3830dcebba1043</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-18 19:55:41</sys_created_on>
+        <sys_id>d5a9963c93da42106f3830dcebba10e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f8d463b840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-18 19:55:41</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>d9a9963cafda4210982a85cf7eb9c5e8</update_guid>
+        <update_guid_history>d9a9963cafda4210982a85cf7eb9c5e8:719749182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-18 20:02:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>97603c5e8a404adaa0d946eed4767ac1</sys_id>
+        <sys_metadata>6899563c93da42106f3830dcebba1090</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="ADF - Loaner Office App" source="x_1152827_adf_loan">f1b1f03893d242106f3830dcebba1094</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ADF - Loaner Office App">f1b1f03893d242106f3830dcebba1094</sys_scope>
+        <sys_scope_delete display_value="">78c2e08b3eb14284bcfddc5bc40b3b64</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_6899563c93da42106f3830dcebba1090</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_6899563c93da42106f3830dcebba1090">d5a9963c93da42106f3830dcebba10e9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-18 20:02:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
